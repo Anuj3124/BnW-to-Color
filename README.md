@@ -16,15 +16,15 @@ First, you need to download the three files required for the Caffe model.
 
    * **Model Architecture:** `colorization_deploy_v2.prototxt`
 
-     * Download from: `https://github.com/richzhang/colorization/tree/caffe/colorization/models`
+     * Download from: https://github.com/richzhang/colorization/tree/caffe/colorization/models
 
    * **Model Weights:** `colorization_release_v2.caffemodel`
 
-     * Download from: `https://www.dropbox.com/scl/fi/d8zffur3wmd4wet58dp9x/colorization_release_v2.caffemodel?rlkey=iippu6vtsrox3pxkeohcuh4oy&dl=0`
+     * Download from: https://www.dropbox.com/scl/fi/d8zffur3wmd4wet58dp9x/colorization_release_v2.caffemodel?rlkey=iippu6vtsrox3pxkeohcuh4oy&dl=0
 
    * **Color Palette Data:** `pts_in_hull.npy`
 
-     * Download from: `https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy`
+     * Download from: https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy
 
 ### Step 2: Create and Activate the Virtual Environment
 
